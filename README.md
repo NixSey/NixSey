@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Go.
 - 📫 How to reach me nixseymour[at]gmail[dot]com
 
-2ND acc from [PhynX](https://github.com/PhynX404) (Flagged)
+2ND acc from [@PhynX404](https://github.com/PhynX404) (Flagged)
 
 <!---
 NixSey/NixSey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
