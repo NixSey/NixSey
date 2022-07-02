@@ -3,4 +3,4 @@
 
 2ND acc from [@PhynX404](https://github.com/PhynX404) (Flagged)
 
-Also, this account may get flagged too xD
+Also, this account may got flagged too xD
