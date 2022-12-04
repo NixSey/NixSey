@@ -8,7 +8,7 @@ Also, this account may got flagged too xD
 ## 📊 My Stats
 <img
   src="https://github.com/NixSey/NixSey/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="WakaTime Activity"
 />
 
 ### Discord
