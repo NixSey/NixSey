@@ -6,8 +6,14 @@
 Also, this account may got flagged too xD
 
 ## 📊 My Stats
-<a href="https://discord.com/users/937768405853958214"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/937768405853958214"/></a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/937768405853958214)](https://discord.com/users/937768405853958214)
+<img
+  src="https://github.com/NixSey/NixSey/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+### Discord
+[![Discord](https://lanyard.cnrad.dev/api/937768405853958214?bg=23283d&borderRadius=8px)](https://discord.com/users/937768405853958214)
+
 
 ## 📊 My Projects:
 - 🌐 [l7.phynx.me](https://l7.phynx.me) - DDoS-Stats Layer 7 using Go, HTML and JS. Hosted by <img src="https://replit.com/public/icons/favicon-196.png" alt="replit" style="width:2%;height:2%"> Replit.
